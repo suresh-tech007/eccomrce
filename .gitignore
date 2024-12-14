@@ -1,0 +1,17 @@
+# Ignore Maven/Gradle build directories
+backedwithmongodb/eccomrce/target/
+backedWithmySql/eccomrce/target/
+/build/
+
+# Ignore logs
+*.log
+/logs/
+
+# Ignore IDE configuration files
+.idea/
+*.iml
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
