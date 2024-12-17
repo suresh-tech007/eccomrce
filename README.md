@@ -5,6 +5,9 @@ This project is a full-stack e-commerce platform that includes product listings,
 
 ---
 
+## 🚀 Live Demo
+Check out the live demo of the project here: [Live Demo]( https://eccomrcespringboot.netlify.app/)
+
 ### Features
 1. **User Authentication**
    - Login and signup functionality.
